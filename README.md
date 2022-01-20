@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Internationaal tournaments
 
-You can use the [editor on GitHub](https://github.com/sebastianlopezzz7/internationaalbasketbal.html/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Verschillende organisaties zijn op internationaal vlak actief. Zo is er in de Verenigde Staten de bekende profcompetitie NBA. Daarnaast zijn er in de VS nog tal van kleinere competities zoals de CBA, USBL, NBDL en ABA 2000. Ook mogen de universiteitscompetitie NCAA en de vrouwencompetitie WNBA niet vergeten worden.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Het overkoepelend orgaan op mondiaal vlak is de "[Fédération internationale de Basketball](https://nl.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_de_Basketball)" (FIBA). Deze organisatie werd op 18 juni 1932 opgericht in het Zwitserse Genève door Argentinië, Tsjecho-Slowakije, Griekenland, Italië, Letland, Portugal en Roemenië.
 
-### Markdown
+### De FIBA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+De FIBA vertegenwoordigt op dit ogenblik ruim 200 verschillende basketbalfederaties uit de hele wereld. Het is het enige orgaan dat door het IOC erkend is. Het vaardigt de officiële regels uit in verband met het basketbal, organiseert internationale competities en reguleert transfers van spelers tussen verschillende landen. De FIBA is sinds 1956 gevestigd in München (Duitsland). Tussen 1932 en 1940 was dat Rome (Italië) en tussen 1940 en 1956 in Bern (Zwitserland).
 
-```markdown
-Syntax highlighted code block
+### Kampioenschappen
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebastianlopezzz7/internationaalbasketbal.html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+s
