@@ -1021,3 +1021,19 @@ De FIBA vertegenwoordigt op dit ogenblik ruim 200 verschillende basketbalfederat
 <td><a href="/wiki/Bestand:Flag_of_Japan.svg" class="image" title="Vlag van Japan"><img alt="Vlag van Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/30px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a>Japan</a></td>
 <td><a href="/wiki/Bestand:Flag_of_the_Republic_of_China.svg" class="image" title="Vlag van Taiwan"><img alt="Vlag van Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/20px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/30px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/40px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a><a>Taiwan</a>
 </td></tr></tbody></table>
+	
+	   <header>
+<a href="https://sebastianlopezzz7.github.io/">1</a>
+
+
+<a href="beschrijvingbasketball.html">2</a>
+
+
+<a href="hetspel.html">3</a>
+
+
+<a href="internationaalbasketbal.html">4</a>
+
+
+<a href="overzicht.html">5</a>
+  </header>
