@@ -1023,17 +1023,5 @@ De FIBA vertegenwoordigt op dit ogenblik ruim 200 verschillende basketbalfederat
 </td></tr></tbody></table>
 	
 	   <header>
-<a href="https://sebastianlopezzz7.github.io/">1</a>
-
-
-<a href="beschrijvingbasketball.html">2</a>
-
-
-<a href="hetspel.html">3</a>
-
-
-<a href="internationaalbasketbal.html">4</a>
-
-
-<a href="overzicht.html">5</a>
+<a href="https://sebastianlopezzz7.github.io/">[..Naar Hoofdpagina..]</a>
   </header>
